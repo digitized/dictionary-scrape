@@ -1,7 +1,7 @@
 {
   "name": "dictionary-scrape",
-  "version": "0.1.0",
-  "description": "Dicionary Scrape for Words",
+  "version": "0.1.1",
+  "description": "Simple Dictionary Scrape",
   "main": "./dist/index.js",
   "scripts": {
     "main": "./dist/index.js",
