@@ -26,7 +26,7 @@ dictionary.getDictionary(word)
 // }, ...]
 
 // Returns promise with array of Synonyms and Anyonyms (Object)
-gss.getThesaurus(word)
+dictionary.getThesaurus(word)
   .then(function(response) { console.log(response) });
 
 // [{
